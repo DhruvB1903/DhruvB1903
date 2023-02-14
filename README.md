@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Balchandani</h1>
 <h3 align="center">Aspiring Full Stack Web Developer from India</h3>
-<img align="center" width="400px" src="https://www.istockphoto.com/vector/boy-with-laptop-happy-man-well-being-businessman-creative-people-working-at-home-gm1255572283-367358939">
+<img align="center" width="400px" src="[https://www.istockphoto.com/vector/boy-with-laptop-happy-man-well-being-businessman-creative-people-working-at-home-gm1255572283-367358939](https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbalchandani&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbalchandani" /> </p>
 
