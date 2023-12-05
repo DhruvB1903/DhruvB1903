@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](dhruvbalchandani.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.vercel.app)
 
 - 💬 Ask me about **Frontend**
 
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvx19&show_icons=true&locale=en" alt="dhruvx19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvx19&" alt="dhruvx19" /></p>
+
