@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](dhruvbalchandani.vercel.app)
 
 - 💬 Ask me about **Frontend**
 
