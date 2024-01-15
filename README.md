@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvx19" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvx19?logo=twitter&style=for-the-badge" alt="dhruvx19" /></a> </p>
 
-- 🌱 I’m currently learning **React and Blockchain**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.vercel.app)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Application Development**
 
 - 📫 How to reach me **dhruvbalchandani1@gmail.com**
 
