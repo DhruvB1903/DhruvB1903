@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dhruvbalchandani.vercel.app](https://dhruvbalchandani.tech)
 
 - 💬 Ask me about **Application Development**
 
